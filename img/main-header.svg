@@ -1,1 +1,23 @@
-<svg id="e535c003-214c-49ca-af06-68ad9081ac21" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80"><defs><style>.eaa75f68-034f-44e8-be58-cf4422e53514{fill:#e0313b;}.f7acdf8b-093d-40b8-9173-727c32db77cb{fill:none;stroke:#060203;stroke-width:6px;}.a803f95c-4f1f-46cd-8b1d-828151fd9f8c,.b22f19f8-0a68-4e20-9650-87086604d5c6,.ed0b07ea-539c-49c6-9193-3a9f1320f24a,.f7acdf8b-093d-40b8-9173-727c32db77cb,.fe7ea153-dedb-4469-83cc-baedeb55373f,.ffcd9c70-70c0-4d5b-a57e-cdcfbc990462{stroke-miterlimit:10;}.b22f19f8-0a68-4e20-9650-87086604d5c6{fill:#dee6ef;}.a803f95c-4f1f-46cd-8b1d-828151fd9f8c,.b22f19f8-0a68-4e20-9650-87086604d5c6,.ed0b07ea-539c-49c6-9193-3a9f1320f24a,.fe7ea153-dedb-4469-83cc-baedeb55373f,.ffcd9c70-70c0-4d5b-a57e-cdcfbc990462{stroke:#000;stroke-width:3px;}.a803f95c-4f1f-46cd-8b1d-828151fd9f8c{fill:#56b3f4;}.ffcd9c70-70c0-4d5b-a57e-cdcfbc990462{fill:#60b257;}.ed0b07ea-539c-49c6-9193-3a9f1320f24a{fill:#f6dc4d;}.fe7ea153-dedb-4469-83cc-baedeb55373f{fill:#e6313d;}</style></defs><title>_</title><polygon class="eaa75f68-034f-44e8-be58-cf4422e53514" points="155 50 240 50 240 0 0 0 0 77 127 77 155 50"/><polyline class="f7acdf8b-093d-40b8-9173-727c32db77cb" points="0 77 127 77 155 50 240 50"/><circle class="b22f19f8-0a68-4e20-9650-87086604d5c6" cx="58.42" cy="40.05" r="21.95"/><circle class="a803f95c-4f1f-46cd-8b1d-828151fd9f8c" cx="58.42" cy="40.05" r="15.08"/><circle class="ffcd9c70-70c0-4d5b-a57e-cdcfbc990462" cx="130.97" cy="15.1" r="6"/><circle class="ed0b07ea-539c-49c6-9193-3a9f1320f24a" cx="110.47" cy="15.1" r="6"/><circle class="fe7ea153-dedb-4469-83cc-baedeb55373f" cx="89.97" cy="15.1" r="6"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="e535c003-214c-49ca-af06-68ad9081ac21"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 80"
+	 style="enable-background:new 0 0 240 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EE3030;}
+	.st1{fill:none;stroke:#060203;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#DEE6EF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#56B3F4;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#60B257;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#F6DC4D;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:#E6313D;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<title>_</title>
+<polygon class="st0" points="155,50 240,50 240,0 0,0 0,77 127,77 "/>
+<polyline class="st1" points="0,77 127,77 155,50 240,50 "/>
+<circle class="st2" cx="58.4" cy="40" r="21.9"/>
+<circle class="st3" cx="58.4" cy="40" r="15.1"/>
+<circle class="st4" cx="131" cy="15.1" r="6"/>
+<circle class="st5" cx="110.5" cy="15.1" r="6"/>
+<circle class="st6" cx="90" cy="15.1" r="6"/>
+</svg>
